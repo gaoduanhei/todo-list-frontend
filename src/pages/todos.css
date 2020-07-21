@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    background-color: #00000070;
+}
+.link{
+    text-decoration: none;
+}
+.top-nav li{
+    padding: 10px;
+    text-align: right;
+    margin-right: 15px;
+    margin-top: 0px;
+    list-style: none;
+  }
+
+  .top-nav {
+      color: #00000090;
+      margin-top: 0px;
+      display: block;
+      background-color: #222222;
+  }
+  .top-nav ul{
+      margin: 0px;
+      border: 0px;
+  }
+  .top-nav Button{
+      margin-left: 5px;
+  }
